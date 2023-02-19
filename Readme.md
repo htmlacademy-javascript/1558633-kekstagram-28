@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Екатерина  Михайлова](https://up.htmlacademy.ru/javascript/28/user/1558633).
-* Наставник: `123`.
+* Наставник: [Михаил Карямин](https://up.htmlacademy.ru/javascript/28/user/959581).
 
 ---
 

@@ -16,7 +16,6 @@ const checkPalindrome = (string) => {
     }
   }
   return true;
-
 };
 // console.log(`${checkPalindrome('топот') }<br>`); // true
 // console.log(`${checkPalindrome('hello') }<br>`); // false
